@@ -16,12 +16,15 @@ const Home = () => {
             <img alt="profile-img" src={profileImage} />
           </div>
           <div className={styled["header-metadata"]}>
-            <h2 className={styled["name"]}>MOHAMMED SOHEL</h2>
+            <h2 className={styled["name"]}>
+              <span className={styled["highlight"]}>so_hell</span> / MOHAMMED
+              SOHEL
+            </h2>
             <p className={styled["description"]}>
-              <span className={styled["highlight"]}>Software Enginner</span>{" "}
-              with experience in MERN stack technologies. Passionate about
-              building dynamic web applications. Eager to learn new technologies
-              and enhance my development skills.
+              Software Enginner with experience in
+              <span className={styled["highlight"]}> MERN </span> stack
+              technologies. Passionate about building dynamic web applications.
+              Eager to learn new technologies and enhance my development skills.
             </p>
 
             <a href="mailto:armanyppph@gmail.com" className={styled["mail"]}>

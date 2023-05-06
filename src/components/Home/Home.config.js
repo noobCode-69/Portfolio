@@ -22,19 +22,19 @@ export const skills = [
   "1 years experience in Backend Developement with Node.",
   "Knowledge of Microfrontends with webpack.",
   "Knowledge of creating production grade CI/CD workflows using Github Actions.",
-  "Have a very keen eye for UI/UX",
+  "Have a very keen eye for UI/UX.",
 ];
 
 export const techStack = [
-  "React (2 years)",
-  "Redux (2 years)",
-  "Node (1 years)",
-  "Express (1 years)",
+  "React (1.5 years)",
+  "Redux (1.5 years)",
+  "Node (1 year)",
+  "Express (1 year)",
   "Javascript (2 years)",
   "HTML/CSS (2 years)",
-  "Webpack (6 months)",
   "CI/CD (6 months)",
   "Github Actions (6 months)",
+  "Webpack (1 month)",
 ];
 
 export const projects = [
@@ -46,11 +46,11 @@ export const projects = [
       "A fully functional deployed Exam Management System (EMS).",
       "Login/Signup feature for students/teachers",
       "Create test feature for teacher role.",
-      "JWT based authentication",
-      "Redux for complex state management",
+      "JWT based authentication.",
+      "Redux for complex state management.",
       "Implement Responsive Design.",
     ],
-    techStack: `React, Node, Express, MongoDB , Redux`,
+    techStack: `React, Redux, Node, Express, MongoDB  `,
   },
   {
     name: "LUSIP",
@@ -58,10 +58,10 @@ export const projects = [
     github: "https://github.com/noobCode-69/lnmiit-lusip-portal-frontend",
     descriptions: [
       "Lusip is a MERN stack web app that simplifies LNMIIT summer intern hiring.",
-      "Fully automates the manual tasks",
-      "Teacher can create projects and review the responses",
-      "Student can apply to any project",
-      "Cookie based authentication",
+      "Fully automates the manual tasks.",
+      "Teacher can create projects and review the responses.",
+      "Student can apply to any project.",
+      "Cookie based authentication.",
     ],
     techStack: `React, Node, Express, MongoDB , React-Query`,
   },
