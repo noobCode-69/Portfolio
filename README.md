@@ -5,4 +5,4 @@ This repository contains the code my digital resume. It shows my skillsets that 
 The project is initialized with vite and hosted on vercel.
 
 ## ToDo
-- Responsive Layout
+- Make the website mobile responsive
