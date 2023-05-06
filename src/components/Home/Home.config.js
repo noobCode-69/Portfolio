@@ -18,7 +18,7 @@ export const socialLinks = [
 ];
 
 export const skills = [
-  "2 years experience in Frontend Developement with React.",
+  "1.5 years experience in Frontend Developement with React.",
   "1 years experience in Backend Developement with Node.",
   "Knowledge of Microfrontends with webpack.",
   "Knowledge of creating production grade CI/CD workflows using Github Actions.",
