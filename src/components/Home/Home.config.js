@@ -8,10 +8,6 @@ export const socialLinks = [
     href: "https://github.com/noobCode-69",
   },
   {
-    text: "Blogs",
-    href: "https://portfolio-noobcode-69.vercel.app/",
-  },
-  {
     text: "Resume",
     href: "https://drive.google.com/file/d/1kPi8skXxP0FfYM9q6md74xitn7RxcHCV/view?usp=sharing",
   },
