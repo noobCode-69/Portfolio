@@ -11,6 +11,10 @@ export const socialLinks = [
     text: "Resume",
     href: "https://drive.google.com/file/d/1kPi8skXxP0FfYM9q6md74xitn7RxcHCV/view?usp=sharing",
   },
+  {
+    text: "Leetcode",
+    href: "https://leetcode.com/so_hell",
+  },
 ];
 
 export const skills = [
