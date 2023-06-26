@@ -1,7 +1,6 @@
 import styled from "./Home.module.css";
 
 import { socialLinks } from "./Home.config";
-import { skills } from "./Home.config";
 import { techStack } from "./Home.config";
 import { workHistory } from "./Home.config";
 import { projects } from "./Home.config";
@@ -47,21 +46,6 @@ const Home = () => {
               })}
             </div>
           </div>
-        </div>
-        <div className={styled["skills"]}>
-          <h2>Skills & Qualification</h2>
-          <ul className={styled["skills-list"]}>
-            {skills.map((skill, index) => {
-              return (
-                <li
-                  key={`skill-number-${index + 1}`}
-                  className={styled["skills-list-item"]}
-                >
-                  ✔️ {skill}
-                </li>
-              );
-            })}
-          </ul>
         </div>
         <div className={styled["tech-stack"]}>
           <h2>Tech stack</h2>

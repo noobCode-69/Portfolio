@@ -8,36 +8,43 @@ export const socialLinks = [
     href: "https://github.com/noobCode-69",
   },
   {
-    text: "Resume",
-    href: "https://drive.google.com/file/d/1kPi8skXxP0FfYM9q6md74xitn7RxcHCV/view?usp=sharing",
-  },
-  {
     text: "Leetcode",
     href: "https://leetcode.com/so_hell",
   },
-];
-
-export const skills = [
-  "1.5 years experience in Frontend Developement with React.",
-  "1 years experience in Backend Developement with Node.",
-  "Knowledge of Microfrontends with webpack.",
-  "Knowledge of creating production grade CI/CD workflows using Github Actions.",
-  "Have a very keen eye for UI/UX.",
+  {
+    text: "Resume",
+    href: "https://drive.google.com/file/d/1G7NdmGjGphDRp0c7CvmWESpIvf6Z-Ikh/view?usp=sharing",
+  },
 ];
 
 export const techStack = [
-  "React (1.5 years)",
-  "Redux (1.5 years)",
-  "Node (1 year)",
-  "Express (1 year)",
-  "Javascript (2 years)",
-  "HTML/CSS (2 years)",
-  "CI/CD (6 months)",
-  "Github Actions (6 months)",
-  "Webpack (1 month)",
+  "React",
+  "Node",
+  "Express",
+  "MongoDB",
+  "SQL",
+  "Redis",
+  "GraphQL",
+  "Redux",
+  "Javascript",
+  "Typescript",
+  "SASS",
+  "HTML/CSS",
 ];
 
 export const projects = [
+  {
+    name: "ReactPen",
+    live: "https://www.npmjs.com/package/react-journal",
+    github: "https://github.com/noobCode-69/ReactPen",
+    descriptions: [
+      "ReactPen is a Jupyter Notebook version of React, offering a unique approach to React development",
+      "Implemented a in-browser code transpiler and builder using esbuild and unpkg",
+      "Created the project using Monorepo architecture.",
+      "Redux for complex state management.",
+    ],
+    techStack: `Typescipt, ReactJS, ReduxJS, ExpressJS, NodeJS, Lerna, Monorepo, Commander`,
+  },
   {
     name: "YGGDRASIL",
     live: "https://yggdrasil-frontend.vercel.app/",
