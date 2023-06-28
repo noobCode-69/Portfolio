@@ -22,7 +22,7 @@ export const skills = [
   "Strong knowledge of JavaScript and TypeScript",
   "Proficient in SQL databases for data management",
   "Experience in implementing GraphQL for efficient API development",
-  "Skilled in working with Redis for efficient data caching",
+  "Currently learning Redis for efficient data caching",
 ];
 
 export const techStack = [
@@ -30,7 +30,6 @@ export const techStack = [
   "Node, Express",
   "NoSQL, MongoDB",
   "SQL, PostgreSQL",
-  "Redis",
   "GraphQL",
   "Typescript, Javascript",
   "HTML, CSS/SASS",
