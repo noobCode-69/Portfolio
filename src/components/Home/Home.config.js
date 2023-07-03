@@ -33,6 +33,7 @@ export const techStack = [
   "GraphQL",
   "Typescript, Javascript",
   "HTML, CSS/SASS",
+  "PHP"
 ];
 
 export const projects = [
