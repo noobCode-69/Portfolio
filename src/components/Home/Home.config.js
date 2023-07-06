@@ -115,4 +115,5 @@ export const workHistory = [
   },
 ];
 
-export const profileImage = "https://i.ibb.co/8xnGQzL/compressed.png";
+export const profileImage =
+  "https://media.licdn.com/dms/image/D4D03AQF8JvI_UA_zbg/profile-displayphoto-shrink_200_200/0/1682806580320?e=1694044800&v=beta&t=EY-tOFQlU-CPrRSN88MF_Or9LTY-tCey9Kzbj32r-xQ";
