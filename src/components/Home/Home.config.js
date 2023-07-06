@@ -33,7 +33,7 @@ export const techStack = [
   "GraphQL",
   "Typescript, Javascript",
   "HTML, CSS/SASS",
-  "PHP"
+  "PHP",
 ];
 
 export const projects = [
@@ -115,5 +115,4 @@ export const workHistory = [
   },
 ];
 
-export const profileImage =
-  "https://media.licdn.com/dms/image/D4D03AQF8JvI_UA_zbg/profile-displayphoto-shrink_800_800/0/1682806580320?e=1688601600&v=beta&t=NVrYub_iZWOVS0tF9SeNY_V8FRpwWFblje_v7vXZBNg";
+export const profileImage = "https://i.ibb.co/8xnGQzL/compressed.png";
