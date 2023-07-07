@@ -19,10 +19,10 @@ export const socialLinks = [
 
 export const skills = [
   "Proficient in MERN stack development (MongoDB, Express.js, React.js, Node.js)",
+  "Well versed with React ecosystem libraries like Redux, React-Query, React-Router",
   "Strong knowledge of JavaScript and TypeScript",
   "Proficient in SQL databases for data management",
   "Experience in implementing GraphQL for efficient API development",
-  "Currently learning Redis for efficient data caching",
 ];
 
 export const techStack = [
@@ -33,7 +33,6 @@ export const techStack = [
   "GraphQL",
   "Typescript, Javascript",
   "HTML, CSS/SASS",
-  "PHP",
 ];
 
 export const projects = [
