@@ -26,13 +26,19 @@ export const skills = [
 ];
 
 export const techStack = [
-  "React, Redux",
-  "Node, Express",
-  "NoSQL, MongoDB",
-  "SQL, PostgreSQL",
+  "React",
+  "Redux",
+  "Node",
+  "Express",
+  "MongoDB",
+  "SQL",
+  "PostgreSQL",
   "GraphQL",
-  "Typescript, Javascript",
-  "HTML, CSS/SASS",
+  "Typescript",
+  "Javascripot",
+  "HTML",
+  "CSS",
+  "SASS",
 ];
 
 export const projects = [
