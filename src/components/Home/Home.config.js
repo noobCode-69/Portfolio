@@ -36,6 +36,7 @@ export const techStack = [
   "GraphQL",
   "Typescript",
   "Javascripot",
+  "PHP",
   "HTML",
   "CSS",
   "SASS",
@@ -106,14 +107,14 @@ export const workHistory = [
     skills: `HTML/CSS, Javascript, Responsive Design`,
   },
   {
-    from: "April 2022",
+    from: "January 2023",
     to: "Present",
-    role: "Freelancer",
-    company: "Multiple Platforms",
+    role: "Open Source Contributor",
+    company: "Multiple Projects",
     descriptions: [
-      "Delivered high-quality MERN stack projects to clients.",
-      "Successfully translated client requirements into functional and intuitive web applications.",
-      "Implemented best practices for efficient development and deployment of web applications.",
+      "Create and solved several issues at Strapi .",
+      "Successfully made feature enhancement at Mirrorful.",
+      "Solved minor bugs  at Scandiweb.",
     ],
 
     skills: `React, Node, Express, Mongodb, Responsive Design`,
