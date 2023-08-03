@@ -26,7 +26,6 @@ export const skills = [
 ];
 
 export const techStack = [
-  "PHP",
   "React",
   "Redux",
   "Node",
