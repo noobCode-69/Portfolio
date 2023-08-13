@@ -120,4 +120,4 @@ export const workHistory = [
 ];
 
 export const profileImage =
-  "https://media.licdn.com/dms/image/D4D03AQF8JvI_UA_zbg/profile-displayphoto-shrink_200_200/0/1682806580320?e=1694044800&v=beta&t=EY-tOFQlU-CPrRSN88MF_Or9LTY-tCey9Kzbj32r-xQ";
+  "https://media.licdn.com/dms/image/D4D03AQGGPd37OJqtXg/profile-displayphoto-shrink_800_800/0/1691960417527?e=1697673600&v=beta&t=Vf7C74aFABHbHa7uAV9TH-zvK0fZP6IHH8Us2lIGdY0";
