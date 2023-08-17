@@ -27,6 +27,9 @@ export const skills = [
 
 export const techStack = [
   "React",
+  "Next",
+  "ChakraUI",
+  "Framer Motion",
   "Redux",
   "Node",
   "Express",
@@ -92,6 +95,18 @@ export const projects = [
 ];
 
 export const workHistory = [
+  {
+    from: "August 2023",
+    to: "Present",
+    role: "Software Engineer",
+    company: "Tryp.com",
+    descriptions: [
+      "Building the core product, the tryp.com main web app that helps users get instant travel packages to anywhere & anytime.",
+      "It's a very complex web application at this point with at least hundreds of react components and all sort of complex functionality like checkout with strip, complex form validations, smooth animations.",
+    ],
+
+    skills: `NextJS, Typescript, ChakraUI , Framer Motion`,
+  },
   {
     from: "December 2022",
     to: "March 2023",

@@ -98,6 +98,7 @@
   flex-direction: column;
   gap: 2rem;
   list-style-type: none;
+  line-height: 1.75rem;
 }
 
 .work-history-list-item {
