@@ -97,7 +97,7 @@ export const projects = [
 export const workHistory = [
   {
     from: "August 2023",
-    to: "Present",
+    to: "December 2023",
     role: "Software Engineer",
     company: "Tryp.com",
     descriptions: [
@@ -134,5 +134,4 @@ export const workHistory = [
   },
 ];
 
-export const profileImage =
-  "https://media.licdn.com/dms/image/D4D03AQGGPd37OJqtXg/profile-displayphoto-shrink_800_800/0/1691960417527?e=1697673600&v=beta&t=Vf7C74aFABHbHa7uAV9TH-zvK0fZP6IHH8Us2lIGdY0";
+export const profileImage = "https://media.licdn.com/dms/image/D4D03AQGGPd37OJqtXg/profile-displayphoto-shrink_800_800/0/1691960421014?e=1707955200&v=beta&t=ryF5gtp6B4astwV2YEDzYe9OiMb5AQ190OV6B4MOVb8"
