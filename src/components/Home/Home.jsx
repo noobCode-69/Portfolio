@@ -4,9 +4,11 @@ import { socialLinks } from "./Home.config";
 import { techStack } from "./Home.config";
 import { workHistory } from "./Home.config";
 import { projects } from "./Home.config";
-import { profileImage } from "./Home.config";
 import { skills } from "./Home.config";
 import MaxWidth from "../utils/MaxWidth/MaxWidth";
+import profileImage from '../../../assets/profile.jpeg'
+
+
 const Home = () => {
   return (
     <MaxWidth maxWidth={800}>

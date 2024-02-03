@@ -11,10 +11,6 @@ export const socialLinks = [
     text: "Leetcode",
     href: "https://leetcode.com/so_hell",
   },
-  {
-    text: "Resume",
-    href: "https://drive.google.com/file/d/1G7NdmGjGphDRp0c7CvmWESpIvf6Z-Ikh/view?usp=sharing",
-  },
 ];
 
 export const skills = [
@@ -29,8 +25,11 @@ export const techStack = [
   "React",
   "Next",
   "ChakraUI",
+  "Tailwind",
+  "MUI",
   "Framer Motion",
   "Redux",
+  "Redux-Saga",
   "Node",
   "Express",
   "MongoDB",
@@ -97,7 +96,7 @@ export const projects = [
 export const workHistory = [
   {
     from: "August 2023",
-    to: "December 2023",
+    to: "Present",
     role: "Software Engineer",
     company: "Tryp.com",
     descriptions: [
@@ -106,6 +105,17 @@ export const workHistory = [
     ],
 
     skills: `NextJS, Typescript, ChakraUI , Framer Motion`,
+  },
+  {
+    from: "December 2023",
+    to: "January 2024",
+    role: "Frontend Developer Intern",
+    company: "HireQuotient",
+    descriptions: [
+      "Contributed  to the development and enhancement of the core product at a thriving HR Tech Startup, specifically focusing on the advancement of the EasySource dashboard. .",
+    ],
+
+    skills: `ReactJS, Redux-Saga, MUI, Tailwind, Framer Motion`,
   },
   {
     from: "December 2022",
@@ -134,4 +144,3 @@ export const workHistory = [
   },
 ];
 
-export const profileImage = "https://media.licdn.com/dms/image/D4D03AQGGPd37OJqtXg/profile-displayphoto-shrink_800_800/0/1691960421014?e=1707955200&v=beta&t=ryF5gtp6B4astwV2YEDzYe9OiMb5AQ190OV6B4MOVb8"
